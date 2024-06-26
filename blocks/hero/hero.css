@@ -24,7 +24,7 @@ main .hero .hero-body {
     position: relative;
     text-align: center;
     z-index: 1;
-    color: red;
+    color: white;
     text-shadow: 1px 1px 2px #000;
     padding-top: 50px;
     padding-bottom: 75px;
